@@ -1,8 +1,8 @@
 // Part-1:
 // Basic arrays: Product Inventory:
 // Challenge:
-// You are tasked with creating aProduct Inventorysystem. Implement functions and logic to manage object manipulationeffectively.
-// 1.Define a type alias namedProductto represent a product with the following 
+// You are tasked with creating aProduct Inventory system. Implement functions and logic to manage object manipulation effectively.
+// 1.Define a type alias named Product to represent a product with the following 
 // properties:
 // •name (string):The name of the product.
 // •price (number):The price of the product.
@@ -10,7 +10,7 @@
 // •stock (number):The number of products available.
 // •colorOptions (string[]):An array listing available colors.
 // 2.Create an array named products containing at least three product objects. Each product object should include a name,price,and inventory details.
-// 3.Implement a function named changeColorthat takes a product objectand a new coloras input. This function should update the color property of the product and adjust the price based on the new color(implement your own logic, e.g., increase by 10% for red, decrease by 5% for blue).
+// 3.Implement a function named changeColor that takes a product object and a new color as input. This function should update the color property of the product and adjust the price based on the new color(implement your own logic, e.g., increase by 10% for red, decrease by 5% for blue).
 // 4.Display each product's name, price, stock, and available colors. Iterate through the products array and print each product's details.
 
 
